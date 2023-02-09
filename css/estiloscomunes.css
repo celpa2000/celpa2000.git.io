@@ -1,0 +1,33 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    margin-bottom: 30px;
+    font-family: 'Roboto regular';
+    box-sizing: border-box;
+    background-color:bisque ;
+    height: 1500px;
+    
+}
+
+
+
+#contenedor{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+ul{
+    
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+a{
+    color:black;
+    text-decoration: none;
+    
+}
+a:hover{
+    color:white;
+}
